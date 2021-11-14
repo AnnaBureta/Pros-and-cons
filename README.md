@@ -9,12 +9,15 @@ description description description
 | 2. ..|2... |
 
 # Jira
-description description description
+Jira documentation is easy to find, I simply googled "Jira documentation" and 
 
-| Pros | Cons |  
+| Pros       | Cons |  
 | -----|----- |  
-| 1. ..|1... | 
-| 2. ..|2... |
+| 1. **Search** option available: ![image](domowa2.png) |1. **Let's get started**, **Next** buttons - unreadable, wrong choice of colors: ![image](domowa1.png)  | 
+| 2. Informal language, e.g. *Ready to get going? Let's start with grabbing the installer.* [on this page](https://confluence.atlassian.com/jiracoreserver073/setting-up-your-instance-861255641.html#Settingupyourinstance-Downloadtheinstaller) |2. In Chrome, you are unable to click on an image and enlarge it, e.g. [here](https://confluence.atlassian.com/jiracoreserver073/managing-permissions-861255652.html) or [here](https://confluence.atlassian.com/jiracoreserver/viewing-a-project-938846234.html) |
+| 3. Good-sized images within the text: ![image](domowa3.png) | 3. [Here](https://confluence.atlassian.com/jiracoreserver073/working-in-a-project-861255674.html), the *Learn more* lines should not be separated with an enter from the upper paragraphs to which they actually belong because it creates chaos in the layout and the reader can easily click on the topic they are not interested in: ![image](domowa5.png)   |
+| 4. Nice-looking, simple font | 4. |
+| 5. There's a link to the Atlassian Community on every page: ![image](domowa4.png) | 5. 
 
 # Flare
 description description description
