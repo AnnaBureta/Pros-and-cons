@@ -12,6 +12,8 @@ When I googled "Confluence documentation" the search took me to [Confluence Docu
 
 **Confluence - Cons** 
 1. The **Next** button is all blue unless you hover your mouse over it: ![image](domowa11.png)
+2. On some pages, you are unable to enlarge the images, e.g. [here](https://confluence.atlassian.com/doc/keyboard-shortcuts-139456.html)
+3. Some articles are a little bit too wordy, I would definitely try to make them shorter, e.g. [here](https://confluence.atlassian.com/doc/develop-technical-documentation-in-confluence-226166494.html)
 
 
 
