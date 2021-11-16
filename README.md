@@ -1,12 +1,19 @@
 # **Pros-and-cons of Confluence, Jira and Flare documentation**
 
 # Confluence  
-description description description
+When I googled "Confluence documentation" the search took me to [Confluence Documentation Directory](https://confluence.atlassian.com/alldoc/confluence-documentation-directory-12877996.html) where one can find the documentation for all versions of the software, including the latest one: ![image](domowa10.png) For a logged-in user, navigating to the Confluence documentation should not be a problem either: ![image](domowa9.png)
 
-| Pros | Cons |  
-| -----|----- |  
-| 1. ..|1... | 
-| 2. ..|2... |
+**Confluence - Pros**
+1. Rather easy to find
+2. You can enlarge the images inserted here and there in the documentation
+3. Informative yet funny tutorials in the Get Started section of the documentation: [Navigate Confluence](https://confluence.atlassian.com/doc/tutorial-navigate-confluence-251005338.html)  and [Space Ace](https://confluence.atlassian.com/doc/tutorial-space-ace-777010865.html) - I loved the aeronautics references
+4. Informal language, e.g. 
+
+
+**Confluence - Cons**
+1. 
+
+
 
 # Jira
 Jira documentation is pretty easy to find. At first, I simply googled "Jira documentation" and there it was, as the first hit. It's also rather uncomplicated to find when you are a logged-in Jira user: ![image](domowa7.png)
