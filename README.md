@@ -5,13 +5,13 @@ When I googled "Confluence documentation" the search took me to [Confluence Docu
 
 **Confluence - Pros**
 1. Rather easy to find
-2. You can enlarge the images inserted here and there in the documentation
+2. You can click on and enlarge the images in the documentation, e.g. [here](https://confluence.atlassian.com/doc/create-your-personal-space-777010869.html)
 3. Informative yet funny tutorials in the Get Started section of the documentation: [Navigate Confluence](https://confluence.atlassian.com/doc/tutorial-navigate-confluence-251005338.html)  and [Space Ace](https://confluence.atlassian.com/doc/tutorial-space-ace-777010865.html) - I loved the aeronautics references
-4. Informal language, e.g. 
+4. Informal language, e.g. *Enough about that; let's begin.* [here](https://confluence.atlassian.com/doc/tutorial-space-ace-777010865.html)
 
 
-**Confluence - Cons**
-1. 
+**Confluence - Cons** 
+1. The **Next** button is all blue unless you hover your mouse over it: ![image](domowa11.png)
 
 
 
