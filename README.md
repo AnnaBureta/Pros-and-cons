@@ -1,3 +1,9 @@
+- [**Pros-and-cons of Confluence, Jira and Flare documentation**](#pros-and-cons-of-confluence-jira-and-flare-documentation)
+- [Confluence](#confluence)
+- [Jira](#jira)
+- [Flare](#flare)
+
+
 # **Pros-and-cons of Confluence, Jira and Flare documentation**
 
 # Confluence  
@@ -45,24 +51,16 @@ I googled "Madcap Flare documentation" and the search took me exactly where I wa
 **Flare - Pros**
 1. The software documentation is easy to find.
 2. Plain, easy-to-understand English.
-3. I liked the way of enlarging the images, e.g. [here](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Features/General-Key-Features1.htm). It looks really neat when an enlarged image pops up on the same page and not in another tab.
-4. A big plus! Thanks to the bar on the left side of the page, the reader knows where they are in the documentation. 
-![image](domowa13.png) 
+3. I liked the way the images are enlarged, e.g. [here](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Features/General-Key-Features1.htm). It looks really neat when an enlarged image pops up on the same page and not in another tab.
+4. A big plus! Thanks to the bar on the left side of the page, the reader knows where they are in the documentation tree: 
+![image](domowa13.png)
+5. The video [here](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Step4-Developing-Targets/Develop-Targets.htm) is conveniently divided into sections so you don't have to watch the whole thing if you are interested only in a specific output type: ![image](domowa14.png)
+6. At the beginning of every tutorial, the user learns how long it is going to take them to complete it: ![image](domowa15.png) 
 
 **Flare - Cons**
 1. I did not like the two columns' layout [here](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Get-Started.htm) because nowadays we are all pretty much used to scrolling.
-2. 
 
 
-
-# **Comparison and summary**
-
-Table of Contents
-- [**Pros-and-cons of Confluence, Jira and Flare documentation**](#pros-and-cons-of-confluence-jira-and-flare-documentation)
-- [Confluence](#confluence)
-- [Jira](#jira)
-- [Flare](#flare)
-- [**Comparison and summary**](#comparison-and-summary)
 
 
 
