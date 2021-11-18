@@ -7,7 +7,8 @@
 # **Pros-and-cons of Confluence, Jira and Flare documentation**
 
 # Confluence  
-When I googled "Confluence documentation" the search took me to [Confluence Documentation Directory](https://confluence.atlassian.com/alldoc/confluence-documentation-directory-12877996.html) where one can find the documentation for all versions of the software, including the latest one: ![image](domowa10.png) For a logged-in user, navigating to the Confluence documentation should not be a problem either: ![image](domowa9.png)
+When I googled "Confluence documentation" the search took me to [Confluence Documentation Directory](https://confluence.atlassian.com/alldoc/confluence-documentation-directory-12877996.html) where one can find the documentation for all versions of the software, including the latest one: ![image](domowa10.png) 
+For a logged-in user, navigating to the Confluence documentation should not be a problem either: ![image](domowa9.png)
 
 **Confluence - Pros**
 1. Rather easy to find
