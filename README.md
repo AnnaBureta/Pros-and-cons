@@ -40,12 +40,20 @@ Jira documentation is pretty easy to find. At first, I simply googled "Jira docu
 
 
 # Flare
-description description description
+I googled "Madcap Flare documentation" and the search took me exactly where I wanted.
 
-| Pros | Cons |  
-| -----|----- |  
-| 1. ..|1... | 
-| 2. ..|2... |
+**Flare - Pros**
+1. The software documentation is easy to find.
+2. Plain, easy-to-understand English.
+3. I liked the way of enlarging the images, e.g. [here](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Features/General-Key-Features1.htm). It looks really neat when an enlarged image pops up on the same page and not in another tab.
+4. A big plus! Thanks to the bar on the left side of the page, the reader knows where they are in the documentation. 
+![image](domowa13.png) 
+
+**Flare - Cons**
+1. I did not like the two columns' layout [here](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Get-Started.htm) because nowadays we are all pretty much used to scrolling.
+2. 
+
+
 
 # **Comparison and summary**
 
