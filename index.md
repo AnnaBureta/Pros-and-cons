@@ -1,10 +1,8 @@
-- [**Pros-and-cons of Confluence, Jira and Flare documentation**](#pros-and-cons-of-confluence-jira-and-flare-documentation)
 - [Confluence](#confluence)
 - [Jira](#jira)
 - [Flare](#flare)
 
-
-# **Pros-and-cons of Confluence, Jira and Flare documentation**
+# **Pros-and-cons of Confluence, Jira and Flare documentation** <!-- omit in toc -->
 
 # Confluence  
 When I googled "Confluence documentation" the search took me to [Confluence Documentation Directory](https://confluence.atlassian.com/alldoc/confluence-documentation-directory-12877996.html) where one can find the documentation for all versions of the software, including the latest one: ![image](domowa10.png) 
