@@ -1,10 +1,10 @@
-- [**Pros-and-cons of Confluence, Jira and Flare documentation**](#pros-and-cons-of-confluence-jira-and-flare-documentation)
+
+# **Pros-and-cons of Confluence, Jira and Flare documentation** <!-- omit in toc -->
+
 - [Confluence](#confluence)
 - [Jira](#jira)
 - [Flare](#flare)
 
-
-# **Pros-and-cons of Confluence, Jira and Flare documentation**
 
 # Confluence  
 When I googled "Confluence documentation" the search took me to [Confluence Documentation Directory](https://confluence.atlassian.com/alldoc/confluence-documentation-directory-12877996.html) where one can find the documentation for all versions of the software, including the latest one: ![image](domowa10.png) 
@@ -61,6 +61,7 @@ I googled "Madcap Flare documentation" and the search took me exactly where I wa
 
 **Flare - Cons**
 1. I did not like the two columns' layout [here](https://help.madcapsoftware.com/flare2021r2/Content/Flare/Introduction/Get-Started.htm) because nowadays we are all pretty much used to scrolling.
+
 
 
 
